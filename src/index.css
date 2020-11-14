@@ -1,6 +1,9 @@
 body{
-  background-color: #409eff;
+  background-color: #f2f2f2;
+  background-image: url('./asserts/test.png');
+  background-repeat: no-repeat;
 }
-div{
-  color: #fff;
+.webfont{
+    font-size: 25px;
+    font-style: normal;
 }
